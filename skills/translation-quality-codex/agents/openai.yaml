@@ -1,0 +1,4 @@
+interface:
+  display_name: "Translation Quality Codex"
+  short_description: "Rigorous translation with readable outputs"
+  default_prompt: "Use $translation-quality-codex to translate this file with extraction routing, mandatory multi-role review, terminology verification, clean Markdown, and source-named readable PDF with figures when available."

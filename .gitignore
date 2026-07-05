@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.codex/
+translation_*_tmp/
+*_readable_test/
+*.log
